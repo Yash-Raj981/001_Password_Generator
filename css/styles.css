@@ -288,4 +288,15 @@ input[type="number"]::-webkit-outer-spin-button {
   #button_reset {
     font-size: 15px;
   }
+  .password-length {
+    display: flex;
+    justify-content: start;
+  }
+  .password-length #number-selector {
+    background-color: #fff;
+    width: 100%;
+  }
+  .box-range {
+    display: none;
+  }
 }
