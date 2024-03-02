@@ -4,7 +4,7 @@ It's a tool that allows you generate a new password with different possibilities
 
 ## Table of Contents 📋
 
-- [General Info](#General Information)
+- [General Info](#General_Information)
 
 - [Technologies](#Technologies)
 
